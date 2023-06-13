@@ -21,3 +21,4 @@ lib/
 lib64/
 egg-info/
 env/
+.creds/
